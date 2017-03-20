@@ -16,6 +16,9 @@ Supported platforms:
 Changelog
 ---------
 <!--(CHANGELOG_TOP)-->
+**1.0.2**
+* session length precision improvement
+
 **1.0.1**
 * added missing .gml files
 
