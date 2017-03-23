@@ -16,6 +16,9 @@ Supported platforms:
 Changelog
 ---------
 <!--(CHANGELOG_TOP)-->
+**1.0.4**
+* bug fix for end session when using manual session handling
+
 **1.0.3**
 * bug fix for sending events straight after initializing sdk (html5)
 
