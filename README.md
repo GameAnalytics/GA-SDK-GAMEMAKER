@@ -16,6 +16,9 @@ Supported platforms:
 Changelog
 ---------
 <!--(CHANGELOG_TOP)-->
+**1.0.3**
+* bug fix for sending events straight after initializing sdk (html5)
+
 **1.0.2**
 * session length precision improvement
 
