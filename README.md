@@ -14,8 +14,7 @@ Supported platforms:
 * HTML5
 
 
-> :information_source:
-> Requirements:   
+> :information_source:   
 > **Build size:**   
 > Note that download size differ from the actual build size.   
 >   
