@@ -16,6 +16,10 @@ Supported platforms:
 Changelog
 ---------
 <!--(CHANGELOG_TOP)-->
+**1.1.0**
+* added Gamemaker Studio 2 support
+* fixed bug for certain events on desktop platforms not being called
+
 **1.0.5**
 * fixed html5 wrapper to use correct namespace (html5)
 
