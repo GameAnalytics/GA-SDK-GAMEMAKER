@@ -1,7 +1,7 @@
 GA-SDK-GAMEMAKER
 ================
 
-GameAnalytics GameMaker SDK
+GameAnalytics GameMaker SDK for Gamaker Studio v1.4+ and v2
 
 Supported platforms:
 
