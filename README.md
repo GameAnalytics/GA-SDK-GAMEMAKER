@@ -27,6 +27,9 @@ Supported platforms:
 Changelog
 ---------
 <!--(CHANGELOG_TOP)-->
+**1.1.1**
+* bug fixes for building for various platforms
+
 **1.1.0**
 * added Gamemaker Studio 2 support
 * fixed bug for certain events on desktop platforms not being called
