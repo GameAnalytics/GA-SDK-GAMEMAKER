@@ -27,6 +27,9 @@ Supported platforms:
 Changelog
 ---------
 <!--(CHANGELOG_TOP)-->
+**1.1.5**
+* bug fixes import crash for Gamemaker Studio 2
+
 **1.1.1**
 * bug fixes for building for various platforms
 
