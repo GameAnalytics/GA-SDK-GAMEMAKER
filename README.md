@@ -27,6 +27,9 @@ Supported platforms:
 Changelog
 ---------
 <!--(CHANGELOG_TOP)-->
+**1.1.6**
+* missing to update Gamemaker Studio 1.4 package
+
 **1.1.5**
 * bug fixes import crash for Gamemaker Studio 2
 
