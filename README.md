@@ -27,6 +27,9 @@ Supported platforms:
 Changelog
 ---------
 <!--(CHANGELOG_TOP)-->
+**1.1.7**
+* progression event fix for ios (ios)
+
 **1.1.6**
 * missing to update Gamemaker Studio 1.4 package
 
