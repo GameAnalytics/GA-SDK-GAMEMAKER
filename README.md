@@ -3,6 +3,8 @@ GA-SDK-GAMEMAKER
 
 GameAnalytics GameMaker SDK for Gamaker Studio v1.4+ and v2
 
+Documentation can be found [here](https://gameanalytics.com/docs/gamemaker-sdk).
+
 Supported platforms:
 
 * Mac OS X
