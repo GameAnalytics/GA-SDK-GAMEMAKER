@@ -29,6 +29,10 @@ Supported platforms:
 Changelog
 ---------
 <!--(CHANGELOG_TOP)-->
+**1.1.8**
+* fixed session length bug
+* fixed not allowing to add events when session is not started
+
 **1.1.7**
 * progression event fix for ios (ios)
 
