@@ -29,6 +29,9 @@ Supported platforms:
 Changelog
 ---------
 <!--(CHANGELOG_TOP)-->
+**2.0.2**
+* compile eror fixes for android and ios
+
 **2.0.1**
 * fixed thread hanging on shutdown for desktop platforms
 
