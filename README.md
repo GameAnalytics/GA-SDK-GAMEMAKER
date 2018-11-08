@@ -29,6 +29,9 @@ Supported platforms:
 Changelog
 ---------
 <!--(CHANGELOG_TOP)-->
+**2.0.3**
+* ios compile fixes
+
 **2.0.2**
 * compile eror fixes for android and ios
 
