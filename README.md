@@ -29,6 +29,9 @@ Supported platforms:
 Changelog
 ---------
 <!--(CHANGELOG_TOP)-->
+**2.0.4**
+* fixed business event validation
+
 **2.0.3**
 * ios compile fixes
 
