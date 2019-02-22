@@ -5,6 +5,8 @@ GameAnalytics GameMaker SDK for Gamaker Studio v1.4+ and v2
 
 Documentation can be found [here](https://gameanalytics.com/docs/gamemaker-sdk).
 
+If you have any issues or feedback regarding the SDK, please contact our friendly support team [here](https://gameanalytics.com/contact).
+
 Supported platforms:
 
 * Mac OS X
