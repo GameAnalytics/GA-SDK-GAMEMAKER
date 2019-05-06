@@ -31,6 +31,9 @@ Supported platforms:
 Changelog
 ---------
 <!--(CHANGELOG_TOP)-->
+**2.1.1**
+* added ga_onQuit method
+
 **2.1.0**
 * added enable/disable event submission function
 
