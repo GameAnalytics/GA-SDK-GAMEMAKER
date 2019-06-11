@@ -31,6 +31,9 @@ Supported platforms:
 Changelog
 ---------
 <!--(CHANGELOG_TOP)-->
+**2.1.2**
+* fixed hanging background thread when closing application for desktop platforms
+
 **2.1.1**
 * added ga_onQuit method
 
