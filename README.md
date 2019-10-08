@@ -31,6 +31,9 @@ Supported platforms:
 Changelog
 ---------
 <!--(CHANGELOG_TOP)-->
+**2.1.4**
+* fixed android bugs
+
 **2.1.3**
 * added check if log files and database can't be created
 
