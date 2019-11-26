@@ -31,6 +31,9 @@ Supported platforms:
 Changelog
 ---------
 <!--(CHANGELOG_TOP)-->
+**3.0.2**
+* fixed events bug (ios, html5)
+
 **3.0.1**
 * corrected naming of function
 
