@@ -31,6 +31,9 @@ Supported platforms:
 Changelog
 ---------
 <!--(CHANGELOG_TOP)-->
+**3.0.5**
+* A/B testing fixes
+
 **3.0.4**
 * fixed getRemoteConfigsValueAsString bug
 
