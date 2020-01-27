@@ -31,6 +31,9 @@ Supported platforms:
 Changelog
 ---------
 <!--(CHANGELOG_TOP)-->
+**3.0.6**
+* removed facebook, gender and birthyear methods
+
 **3.0.5**
 * A/B testing fixes
 
