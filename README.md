@@ -31,6 +31,9 @@ Supported platforms:
 Changelog
 ---------
 <!--(CHANGELOG_TOP)-->
+**3.0.7**
+* cryptojs bug fix (html5)
+
 **3.0.6**
 * removed facebook, gender and birthyear methods
 
