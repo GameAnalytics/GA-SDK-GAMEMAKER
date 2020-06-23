@@ -31,6 +31,9 @@ Supported platforms:
 Changelog
 ---------
 <!--(CHANGELOG_TOP)-->
+**3.0.8**
+* fixed progression events with scores (android)
+
 **3.0.7**
 * cryptojs bug fix (html5)
 
