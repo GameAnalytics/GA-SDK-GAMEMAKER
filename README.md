@@ -31,6 +31,9 @@ Supported platforms:
 Changelog
 ---------
 <!--(CHANGELOG_TOP)-->
+**3.1.2**
+* removed memory info from automatic crash report
+
 **3.1.1**
 * improved user identifier flow for ios (ios)
 
