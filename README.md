@@ -31,6 +31,9 @@ Supported platforms:
 Changelog
 ---------
 <!--(CHANGELOG_TOP)-->
+**4.0.2**
+* fixes to missing session end events
+
 **4.0.1**
 * updated mac lib to be signed one now
 
