@@ -31,6 +31,9 @@ Supported platforms:
 Changelog
 ---------
 <!--(CHANGELOG_TOP)-->
+**4.0.3**
+* fixed crashes when sending some events
+
 **4.0.2**
 * fixes to missing session end events
 
