@@ -31,6 +31,9 @@ Supported platforms:
 Changelog
 ---------
 <!--(CHANGELOG_TOP)-->
+**4.0.4**
+* added event uuid for events sent
+
 **4.0.3**
 * fixed crashes when sending some events
 
