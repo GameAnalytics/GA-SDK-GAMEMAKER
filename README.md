@@ -31,6 +31,9 @@ Supported platforms:
 Changelog
 ---------
 <!--(CHANGELOG_TOP)-->
+**4.0.5**
+* fixed build errors for android
+
 **4.0.4**
 * added event uuid for events sent
 
