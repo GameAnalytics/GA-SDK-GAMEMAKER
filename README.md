@@ -31,6 +31,9 @@ Supported platforms:
 Changelog
 ---------
 <!--(CHANGELOG_TOP)-->
+**4.0.6**
+* fixed bug in internal error reporting
+
 **4.0.5**
 * fixed build errors for android
 
