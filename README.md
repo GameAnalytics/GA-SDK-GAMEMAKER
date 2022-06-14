@@ -31,6 +31,9 @@ Supported platforms:
 Changelog
 ---------
 <!--(CHANGELOG_TOP)-->
+**4.0.7**
+* added 64 bit for windows
+
 **4.0.6**
 * fixed bug in internal error reporting
 
